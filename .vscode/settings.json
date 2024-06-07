@@ -1,0 +1,4 @@
+{
+    "vetur.validation.template": true,
+    "vetur.validation.templateProps": true
+}
